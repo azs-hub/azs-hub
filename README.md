@@ -7,7 +7,7 @@
 
 I am a front-end developer specializing in JavaScript, with a passion for TypeScript and over six years of experience working across various companies and industries. This journey has provided me with a broad range of skills and insights.
 
-I began my journey as a graphic designer with a year of study, followed by a year at a web design school, where I discovered my passion for web development. This led me to dive deep into a 2-year course at EPITECH, and a 5-year master's degree with ETNA.
+I began my journey as a graphic designer with a year of study, followed by a year at a web design school, where I discovered my passion for web development. This led me to dive deep into a 2-year course at EPITECH, and a 3-year master's degree with ETNA.
 
 During my commitment to web development, it was natural for me to specialize in front-end development. After my studies, I worked for various companies as a front-end developer, gaining an additional 3 years of experience in multicultural environments across Europe and Asia.
 
