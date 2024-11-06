@@ -11,8 +11,7 @@ I began my journey as a graphic designer with a year of study, followed by a yea
 
 During my commitment to web development, it was natural for me to specialize in front-end development. After my studies, I worked for various companies as a front-end developer, gaining an additional 3 years of experience in multicultural environments across Europe and Asia.
 
-I've had the opportunity to work for scale-ups and start-ups, experiencing different management styles along the way. Over this journey, I’ve accumulated 8 years of experience as a front-end developer.
-
+I've had the opportunity to work for scale-ups and start-ups, experiencing different management styles along the way.
 I am a curious and enthusiastic person, always eager to explore new technologies and expand my skill set. With a user-centric approach, I excel at bridging the gap between product and tech. I view my challenges as both growing technology and evolving the product.
 
 
