@@ -23,6 +23,8 @@ I am a curious and enthusiastic person, always eager to explore new technologies
 
 ## Projects
 - [Cuisinea](https://github.com/azs-hub/cuisinea): A simple recipe website using Vue3, TypeScript, vite, Unit testing
+- [Seamless Fusion](https://github.com/azs-hub/seamless-fusion-react): Personal website made with next.Js
+- [Trive](https://github.com/azs-hub/trive): Community and local culture app, built with bmad method. React.
 - More projects coming soon!
 
 ## Contact
